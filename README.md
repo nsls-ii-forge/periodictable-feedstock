@@ -5,9 +5,13 @@ Home: http://www.reflectometry.org/danse/elements.html
 
 Package license: Public domain
 
-Feedstock license: BSD 3-Clause
+Feedstock license: [BSD-3-Clause](https://github.com/nsls-ii-forge/periodictable-feedstock/blob/master/LICENSE.txt)
 
 Summary: Extensible periodic table for python
+
+Development: https://github.com/pkienzle/periodictable
+
+Documentation: http://www.reflectometry.org/danse/docs/elements/
 
 The periodictable package provides an extensible periodic table
 of the elements prepopulated with data important to neutron and
